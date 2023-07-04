@@ -29,7 +29,7 @@ const Service = () => {
                 </a>
                 <div className="mg-top-10">
                   <p>
-                    CCTV installation / Surveillance <br /> VIP Escort Service <br /> Security Consulting <br /> Risk Assessment <br /> Security Architecture Design <br /> Security Training and Certification <br /> Deployment of physical trained guards <br /> Advanced Access Control Installation Expert
+                    CCTV installation / Surveillance <br /> VIP Escort Service <br /> Security Consulting <br /> Risk Assessment <br /> Security Architecture Design <br /> Security Training and Certification <br /> Deployment of physical trained guards 
                   </p>
                 </div>
               </div>

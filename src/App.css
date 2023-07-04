@@ -2990,9 +2990,10 @@ html {
   }
   
   .service-image-wrap {
-    background-image: linear-gradient(to top, #091242, rgba(65, 72, 109, .36) 34%, rgba(255, 255, 255, 0) 85%, rgba(187, 190, 203, .13)), url("https://t4.ftcdn.net/jpg/05/76/73/69/360_F_576736970_ALvSBIJYpR3JuKyIBuePKUfiQRUMxn2B.jpg");
+    background-image: linear-gradient(to top, #091242, rgba(65, 72, 109, .36) 34%, rgba(255, 255, 255, 0) 85%, rgba(187, 190, 203, .13)), url("https://www.laviewsecurity.com/cms/wp-content/uploads/2018/10/Blog-4K-Generic-Banner.jpg");
     background-position: 0 0, 0 0;
-    background-size: auto, auto;
+    background-size: cover;
+    background-repeat: no-repeat;
     padding-top: 250px;
     padding-bottom: 250px;
   }
@@ -5078,9 +5079,9 @@ html {
     }
   
     .service-image-wrap {
-      background-image: linear-gradient(to top, #091242, rgba(65, 72, 109, .36) 59%, rgba(255, 255, 255, 0) 85%, rgba(187, 190, 203, .13)), url("https://assets.website-files.com/63a43a1633ad3e2a969a6958/63a5919885e33dd1ce31aabe_service-image.jpg");
-      background-position: 0 0, 0 0;
-      background-size: auto, auto;
+      /* background-image: linear-gradient(to top, #091242, rgba(65, 72, 109, .36) 59%, rgba(255, 255, 255, 0) 85%, rgba(187, 190, 203, .13)), url("https://www.laviewsecurity.com/cms/wp-content/uploads/2018/10/Blog-4K-Generic-Banner.jpg"); */
+      /* background-position: 0 0, 0 0;
+      background-size: auto, auto; */
     }
   
     .about-image {

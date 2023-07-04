@@ -4,7 +4,7 @@ import { images } from '../../constants';
 const About = () => {
   return (
     <div className="about-section wf-section">
-      <div className="service-image-wrap">
+      <div className="service-image-wrap" >
         
       </div>
       <div>
@@ -58,7 +58,8 @@ const About = () => {
               >
                 <img
                   src={images.securityexpert}
-                  //loading="lazy"
+                  loading="lazy"
+                  style={{width:'700px', height:'400px'}}
                   data-w-id="1f1a020d-bc25-9847-fe2e-8058c0c407c2"
                   alt="security"
                   //style={{ opacity: 0 }}
@@ -77,7 +78,7 @@ const About = () => {
             </div>
             <div className="counter-wrap">
               <div className="counter-card">
-                <p className="counter-number">5000</p>
+                <p className="counter-number">5000+</p>
                 <div className="counter-text-wrap">
                   <div className="counter-block yellow-gradient"></div>
                   <p className="counter-text">Trained Professional Security Experts</p>
@@ -85,7 +86,7 @@ const About = () => {
               </div>
               <div className="counter-line"></div>
               <div className="counter-card">
-                <p className="counter-number">2000</p>
+                <p className="counter-number">2000+</p>
                 <div className="counter-text-wrap">
                   <div className="counter-block yellow-gradient"></div>
                   <p className="counter-text">Satisfied Clients</p>
