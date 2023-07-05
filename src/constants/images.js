@@ -7,7 +7,10 @@ import hotellogo from "../assets/images/icons8-5-star-hotel-48.png";
 import minilogo from "../assets/images/icons8-oil-pump-48.png";
 import securityexpert from '../assets/images/ECU Online Best Cyber Security Tools.webp';
 import privatesec from '../assets/images/186541780_m.jpeg';
-import cctv from '../assets/images/CCTV.webp'
+import cctv from '../assets/images/CCTV.webp';
+import haruna from '../assets/images/haruna.jpeg';
+import hotelabout from '../assets/images/business-suite.webp';
+import privatesecurity from '../assets/images/privatesecurity.jpg'
 
 
 
@@ -26,4 +29,7 @@ export default{
     securityexpert,
     privatesec,
     cctv,
+    haruna,
+    hotelabout,
+    privatesecurity
 }

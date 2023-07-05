@@ -168,6 +168,103 @@ const ContactSection = () => {
     </div>
             </div>
           </div>
+          {/* <div className="w-layout-grid partners-grid">
+      <div
+        id="w-node-_5986b915-ed61-138e-97b4-1397719334fd-42f829bf"
+        className="partners-card"
+      >
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63c90751cbe2f6d85aedc48e_studio-green-icon.svg"
+          loading="lazy"
+          alt="Partners Logo"
+          className="partners-logo"
+        />
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce0f62b45e86924ec54dec_client-bg-image-1.jpg"
+          loading="lazy"
+          srcSet="
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce0f62b45e86924ec54dec_client-bg-image-1-p-500.jpg 500w,
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce0f62b45e86924ec54dec_client-bg-image-1.jpg       600w
+          "
+          alt="Partner Background"
+          sizes="(max-width: 479px) 100vw, (max-width: 991px) 95vw, 299px"
+          className="partner-background-image"
+        />
+        <div className="partners-overlay"></div>
+      </div>
+      <div
+        id="w-node-b3922d1d-ca3a-0656-3d96-9babb314d72c-42f829bf"
+        className="partners-card"
+      >
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63c907810da88454b979eebb_norto-icon.svg"
+          loading="lazy"
+          alt="Partners Logo"
+          className="partners-logo"
+        />
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce113d70e27851ea41786d_client-bg-image-2.jpg"
+          loading="lazy"
+          width="300"
+          sizes="(max-width: 479px) 100vw, (max-width: 991px) 95vw, 299px"
+          alt="Partner Background"
+          srcSet="
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce113d70e27851ea41786d_client-bg-image-2-p-500.jpg 500w,
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce113d70e27851ea41786d_client-bg-image-2.jpg       600w
+          "
+          className="partner-background-image"
+        />
+        <div className="partners-overlay"></div>
+      </div>
+      <div
+        id="w-node-_334111d9-8416-5855-8495-72a8ffa0389d-42f829bf"
+        className="partners-card"
+      >
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63c907c092780036434827d6_point-one-icon.svg"
+          loading="lazy"
+          alt="Partners Logo"
+          className="partners-logo"
+        />
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce114cf329ee4be2282070_client-bg-image-3.jpg"
+          loading="lazy"
+          width="300"
+          sizes="(max-width: 479px) 100vw, (max-width: 991px) 95vw, 299px"
+          alt="Partner Background"
+          srcSet="
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce114cf329ee4be2282070_client-bg-image-3-p-500.jpg 500w,
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce114cf329ee4be2282070_client-bg-image-3.jpg       600w
+          "
+          className="partner-background-image"
+        />
+        <div className="partners-overlay"></div>
+      </div>
+      <div
+        id="w-node-_20256b02-62b6-9eaf-c8cd-fc6f984f297d-42f829bf"
+        className="partners-card"
+      >
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63c907ef3e0b2c34fea51a67_out-of-sand-icon.svg"
+          loading="lazy"
+          alt="Partners Logo"
+          className="partners-logo"
+        />
+        <img
+          src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce11590760e7f86b546dc5_client-bg-image-4.jpg"
+          loading="lazy"
+          width="300"
+          sizes="(max-width: 479px) 100vw, (max-width: 991px) 95vw, 299px"
+          alt="Partner Background"
+          srcSet="
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce11590760e7f86b546dc5_client-bg-image-4-p-500.jpg 500w,
+            https://assets.website-files.com/63a43a1633ad3e2a969a6958/63ce11590760e7f86b546dc5_client-bg-image-4.jpg       600w
+          "
+          className="partner-background-image"
+        />
+        <div className="partners-overlay"></div>
+      </div>
+    </div> */}
         </div>
       </div>
     );

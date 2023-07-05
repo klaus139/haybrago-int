@@ -1,4 +1,5 @@
 import React from 'react';
+import { images } from '../../constants';
 
 const HomeTeam= () => {
   return (
@@ -18,13 +19,13 @@ const HomeTeam= () => {
               className="team-card"
             >
               <img
-                src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63a6c7cf73b07117ca6b81ec_team-image-1.jpg"
+                src={images.haruna}
                 loading="lazy"
                 width="662"
                 alt="Team"
               />
               <div className="team-content-wrap">
-                <h3 className="author-name text-white">Sheila Moore</h3>
+                <h3 className="author-name text-white">Hon. Y. Haruna</h3>
                 <p className="team-member-designation">CEO</p>
               </div>
               <div className="social-media-wrap">
@@ -66,7 +67,7 @@ const HomeTeam= () => {
               />
               <div className="team-content-wrap">
                 <h3 className="author-name text-white">Karim Abdul</h3>
-                <p className="team-member-designation">Lead Developer</p>
+                <p className="team-member-designation">Executive Chairman</p>
               </div>
               <div className="social-media-wrap">
                 <a href="http://www.linkedin.com" className="team-social-link w-inline-block">
@@ -115,7 +116,7 @@ const HomeTeam= () => {
               />
               <div className="team-content-wrap">
                 <h3 className="author-name text-white">Kate Winslot</h3>
-                <p className="team-member-designation">Head Security</p>
+                <p className="team-member-designation">Human Resource</p>
               </div>
               <div className="social-media-wrap">
                 <a href="http://www.facebook.com" className="team-social-link w-inline-block">
