@@ -7,6 +7,10 @@ import Layout from './components/Layout/Layout';
 import Home from './pages/Home';
 import About from './pages/About';
 import ContactUs from './pages/ContactUs';
+import Project from './components/project/Project';
+import Hotels from './pages/Hotels';
+import Mines from './pages/Mines';
+import Farms from './pages/Farms';
 
 function App() {
   return (
@@ -18,6 +22,10 @@ function App() {
     <Route index element={<Home />} />
     <Route path="/about-us" element={<About />} />
     <Route path='/contact-us' element={<ContactUs />} />
+    <Route path='/project' element={<Project />} />
+    <Route path='/hotels' element={<Hotels />} />
+    <Route path='/mines' element={<Mines />} />
+    <Route path='/farms' element={<Farms />} />
 
     </Route>
    </Routes>

@@ -199,27 +199,27 @@ html {
   }
   
   .w-icon-slider-right:before {
-    content: "î˜€";
+    content: ">";
   }
   
   .w-icon-slider-left:before {
-    content: "î˜";
+    content: ">";
   }
   
   .w-icon-nav-menu:before {
-    content: "î˜‚";
+    content: ">";
   }
   
   .w-icon-arrow-down:before, .w-icon-dropdown-toggle:before {
-    content: "î˜ƒ";
+    content: ">";
   }
   
   .w-icon-file-upload-remove:before {
-    content: "î¤€";
+    content: ">";
   }
   
   .w-icon-file-upload-icon:before {
-    content: "î¤ƒ";
+    content: ">";
   }
   
   * {
@@ -1959,7 +1959,7 @@ html {
     outline: 0;
   }
   
-  .w-nav-button.w--open {
+  .w-nav-button .w--open {
     color: #fff;
     background-color: #c8c8c8;
   }
@@ -3898,7 +3898,7 @@ html {
   }
   
   .service-banner {
-    background-image: linear-gradient(to right, #032d5f 18%, rgba(3, 45, 95, .56) 40%, rgba(3, 45, 95, .2)), url("https://assets.website-files.com/63a43a1633ad3e2a969a6958/63b3c992e0edaff90ffed922_service-banner-image.jpg");
+    background-image: linear-gradient(to right, #032d5f 18%, rgba(3, 45, 95, .56) 40%, rgba(3, 45, 95, .2)), url("https://assets.publishing.service.gov.uk/government/uploads/system/uploads/image_data/file/43752/s960_Hotel_sign.jpg");
     background-position: 0 0, 0%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -3988,7 +3988,16 @@ html {
   }
   
   .service-single-banner {
-    background-image: linear-gradient(to right, #032d5f 18%, rgba(2, 25, 52, .55) 42%, rgba(0, 0, 0, 0)), url("https://assets.website-files.com/63a43a1633ad3e2a969a6958/63b3c189d720797a0b2684ab_service-single-banner-image.jpg");
+    background-image: linear-gradient(to right, #032d5f 18%, rgba(2, 25, 52, .55) 42%, rgba(0, 0, 0, 0)), url("https://www.mining-technology.com/wp-content/uploads/sites/19/2020/10/Feature-Image-top-ten-metals-and-mining-companies.jpg");
+    background-position: 0 0, 0%;
+    background-size: auto, cover;
+    margin-top: -81px;
+    padding-top: 220px;
+    padding-bottom: 150px;
+    position: relative;
+  }
+  .service-single-farm-banner {
+    background-image: linear-gradient(to right, #032d5f 18%, rgba(2, 25, 52, .55) 42%, rgba(0, 0, 0, 0)), url("https://veggieconcept.ng/wp-content/uploads/2022/03/Oil-Palm-Plantation.jpg");
     background-position: 0 0, 0%;
     background-size: auto, cover;
     margin-top: -81px;
@@ -4102,7 +4111,7 @@ html {
   }
   
   .project-banner {
-    background-image: linear-gradient(to right, #032d5f 17%, rgba(1, 22, 47, .49) 45%, rgba(0, 0, 0, 0)), url("https://assets.website-files.com/63a43a1633ad3e2a969a6958/63b3bf728a9d0546b7ba5b68_project-banner-image.jpg");
+    background-image: linear-gradient(to right, #032d5f 17%, rgba(1, 22, 47, .49) 45%, rgba(0, 0, 0, 0)), url("https://hotelenglishpoint.com/blog/wp-content/uploads/2021/02/epm-scaled.jpg");
     background-position: 0 0, 0%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -5569,6 +5578,15 @@ html {
   
     .nav-dropdown-link:hover {
       color: #ffca59;
+    }
+    .downhover:hover{
+        background-color: green;
+        width:40px;
+        display:absolute;
+        z-index:940;
+    }
+    .downhover{
+        color:red;
     }
   
     .nav-dropdown-link.w--current {

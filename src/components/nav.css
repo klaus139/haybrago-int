@@ -1,0 +1,136 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3330;
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .navbar-menu {
+    display: flex;
+    align-items: center;
+    
+  }
+  
+  .navbar-link {
+    margin-right: 20px;
+    color: #fff;
+    text-decoration: none;
+    margin-left:20px;
+    cursor:pointer;
+  }
+  
+  .navbar-dropdown-toggle {
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .navbar-dropdown {
+    position: relative;
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  .navbar-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(255, 252, 252);
+    min-width: 160px;
+    padding: 8px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  }
+  
+  .navbar-dropdown.open .navbar-dropdown-content {
+    display: block;
+  }
+  
+  .navbar-dropdown-link {
+    display: block;
+    color: rgb(7, 0, 0);
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  .navbar-dropdown-link:hover{
+    color:rgb(33, 33, 200);
+  }
+  
+  .navbar-hamburger {
+    display: none;
+  }
+  
+  .hamburger {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 30px;
+    height: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .hamburger span {
+    display: block;
+    height: 3px;
+    background-color: #fff;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .hamburger.open span:nth-child(1) {
+    transform: rotate(45deg) translate(5px, 5px);
+  }
+  
+  .hamburger.open span:nth-child(2) {
+    opacity: 0;
+  }
+  
+  .hamburger.open span:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-menu {
+      display: none;
+    }
+  
+    .navbar-hamburger {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  
+    .navbar-hamburger .hamburger {
+      transform: rotate(0);
+    }
+  
+    .navbar-hamburger .hamburger span {
+      transform-origin: center;
+    }
+  
+    .navbar-menu.open {
+        display: flex;
+        flex-direction: column;
+        background-color: rgba(4, 3, 64, 0.885);
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        gap: 30px;
+        padding: 20px;
+        z-index: 999;
+        align-items: center;
+    }
+  
+    .navbar-link {
+      color: #fff;
+      margin-bottom: 10px;
+    }
+  }
+  
