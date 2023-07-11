@@ -30,7 +30,7 @@ const About = () => {
             className="about-image-wrap"
           >
             <img
-              src={images.hotelabout}
+              src={images.haybravo1}
               width="1307"
               alt="Hotelroom"
               //style="opacity: 0"

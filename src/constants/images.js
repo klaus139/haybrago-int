@@ -48,6 +48,19 @@ import muluku from '../assets/images/WhatsApp Image 2023-07-10 at 4.59.34 PM.jpe
 import moses from '../assets/images/WhatsApp Image 2023-07-10 at 5.00.43 PM (1).jpeg'
 import plantteam1 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.47 PM.jpeg'
 import plantteam2 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.46 PM.jpeg'
+import haybravo1 from '../assets/images/hay-bravo-hotels-996215-13.jpeg'
+import haybravo2 from '../assets/images/hay-bravo-hotels-996215-23.jpeg'
+import haybravo3 from '../assets/images/hay-bravo-hotels-996215-7.jpeg'
+import haybravo4 from '../assets/images/hay-bravo-hotels-996215-47.jpeg'
+import haybravo5 from '../assets/images/hay-bravo-hotels-996215-60.jpeg'
+import haybravo6 from '../assets/images/hay-bravo-hotels-996215-59.jpeg'
+import farm1 from '../assets/images/vbnm,.:;".jpeg'
+import farm2 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.47 PM (1).jpeg'
+import farm3 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.47 PM.jpeg'
+import farm4 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.48 PM.jpeg'
+import farm5 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.49 PM.jpeg'
+import farm6 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.50 PM (1).jpeg'
+
 
 
 
@@ -105,5 +118,18 @@ export default{
     nanpan,
     muluku,
     moses,
-    plantteam1
+    plantteam1,
+    plantteam2,
+    haybravo1,
+    haybravo2,
+    haybravo3,
+    haybravo4,
+    haybravo5,
+    haybravo6,
+    farm1,
+    farm2,
+    farm3,
+    farm4,
+    farm5,
+    farm6
 }
