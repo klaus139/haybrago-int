@@ -170,6 +170,35 @@ const Hotels = () => {
         </div>
       </div>
     </div>
+    {/* <div className='team-section wf-section'>
+      <div className='container w-container'>
+        <div className='align-center'>
+        <p className="subtitle">The Hay-Bravo Hotel Experience</p>
+            <div className="subtitle-border"></div>
+            <h2 className="section-title">Excellence and Hospitalty</h2>
+        </div>
+        <div className='mg-top-40'>
+          <div className='w-layout-grid team-grid'>
+          <div
+              id="w-node-_577c223d-8904-ca1a-adbb-33df2955d724-7a086e81"
+              className="team-card"
+            >
+               <img
+                src={images.plantteam1}
+                loading="lazy"
+                width="662"
+                height='450'
+                alt="Team"
+              />
+              <div className="team-content-wrap">
+                <h3 className="author-name text-white">Mr Yusuf Haruna Abiona </h3>
+                <p className="team-member-designation">CSP(RTD), Cirtified Protection Officer (CPO). Managing Director ( MD)& Chief Executive Officer (CEO)</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> */}
     </>
   )
 }

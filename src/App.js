@@ -11,6 +11,7 @@ import Project from './components/project/Project';
 import Hotels from './pages/Hotels';
 import Mines from './pages/Mines';
 import Farms from './pages/Farms';
+import OurTeam from './pages/OurTeam';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
     <Route path='/hotels' element={<Hotels />} />
     <Route path='/mines' element={<Mines />} />
     <Route path='/farms' element={<Farms />} />
+    <Route path='/our-team' element={<OurTeam />} />
 
     </Route>
    </Routes>

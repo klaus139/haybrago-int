@@ -3408,7 +3408,7 @@ html {
     max-height: 100px;
     grid-column-gap: 5px;
     grid-row-gap: 5px;
-    background-image: linear-gradient(to top, #ffb629, #ffda56 50%, #ffd7a6);
+    background-image: linear-gradient(to top, #ffb829, #ffda56fb 50%, #ffd7a6ee);
     align-items: center;
     padding: 10px 15px;
     display: flex;
@@ -3417,6 +3417,10 @@ html {
     bottom: 89px;
     left: auto;
     right: 0%;
+  }
+  .social-media-wrap:hover {
+    background-image: linear-gradient(to top, #ffb8290e, #ffda5612 50%, #ffd7a619);
+
   }
   
   .contact-section {
@@ -4416,7 +4420,7 @@ html {
   }
   
   .team-banner {
-    background-image: linear-gradient(to right, #032d5f 17%, rgba(2, 28, 59, .62) 34%, rgba(0, 0, 0, 0)), url("https://assets.website-files.com/63a43a1633ad3e2a969a6958/63b3bd264632661e48611c34_team-banner-image.jpg");
+    background-image: linear-gradient(to right, #032d5f 17%, rgba(2, 28, 59, .62) 34%, rgba(0, 0, 0, 0)), url("https://www.geesysindia.com/assets/slider/management-team.jpg");
     background-position: 0 0, 50% 0;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -4818,7 +4822,7 @@ html {
   }
   
   .team-social-link:hover {
-    color: #666c89;
+    color: #898266;
     transform: translate(0, -3px);
   }
   
