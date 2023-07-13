@@ -36,6 +36,9 @@ const Nav = () => {
             Services <AiOutlineDown />
           </button>
           <div className="navbar-dropdown-content">
+          <a href="/security" className="navbar-dropdown-link">
+              Security
+            </a>
             <a href="/hotels" className="navbar-dropdown-link">
               Hotels
             </a>
@@ -54,6 +57,9 @@ const Nav = () => {
         <a href="/project" className="navbar-link">
           Projects
         </a>
+        <a href="/our-team" className="navbar-link">
+          The Team
+        </a>
         <a href="/contact-us" className="navbar-link">
           Contact
         </a>
@@ -61,7 +67,7 @@ const Nav = () => {
       <div class="navigation-button-wrap">
             <div class="nav-social-media-wrap">
               <a
-                href="http://www.instagram.com"
+                href="https://instagram.com/haybravointernational?igshid=NTc4MTIwNjQ2YQ=="
                 class="social-media-link w-inline-block"
                 ><img
                   src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc36ddb063a39e687b631_Insta-icon.svg"
@@ -69,7 +75,7 @@ const Nav = () => {
                   alt="Instagram Icon"
                   class="social-icon" /></a
               ><a
-                href="http://www.facebook.com"
+                href="https://www.facebook.com/people/Hay-Bravo-international-Security-Consulting-Company-LTD/100083540643909/?paipv=0&eav=AfZk-s4y746llh98g-ucTA49Evlvof1CLxJFw7wUuMuxVa74Hh-VyyK0A-8yJhxdWHw&_rdr"
                 class="social-media-link w-inline-block"
                 ><img
                   src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc46c51c3425c77fb5dc3_fb-icon.svg"
@@ -77,7 +83,7 @@ const Nav = () => {
                   alt="Facebook Icon"
                   class="social-icon" /></a
               ><a
-                href="http://www.twitter.com"
+                href="https://twitter.com/haybravo_ltd"
                 class="social-media-link w-inline-block"
                 ><img
                   src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc54529c06503197e6691_twiter-icon.svg"
@@ -85,7 +91,7 @@ const Nav = () => {
                   alt="Twitter Icon"
                   class="social-icon" /></a
               ><a
-                href="http://www.linkedin.com"
+                href="https://www.linkedin.com/in/haybravo-international-limited-75b1a7283"
                 class="social-media-link w-inline-block"
                 ><img
                   src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc57ea43e8f10547bacad_linkedIn-icon.svg"

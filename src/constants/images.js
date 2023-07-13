@@ -60,7 +60,12 @@ import farm3 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.47 PM.jpeg
 import farm4 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.48 PM.jpeg'
 import farm5 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.49 PM.jpeg'
 import farm6 from '../assets/images/WhatsApp Image 2023-07-10 at 4.26.50 PM (1).jpeg'
-
+import escortservice from '../assets/images/icons8-security-guard-skin-type-3-48.png'
+import securityconsult from '../assets/images/icons8-security-64.png'
+import securotyarc from '../assets/images/icons8-cyber-security-100.png'
+import certificate from '../assets/images/icons8-training-100.png'
+import securitypic1 from '../assets/images/WhatsApp Image 2023-07-11 at 7.01.41 PM.jpeg';
+import securitypic2 from '../assets/images/WhatsApp Image 2023-07-11 at 7.01.41 PM (1).jpeg'
 
 
 
@@ -131,5 +136,11 @@ export default{
     farm3,
     farm4,
     farm5,
-    farm6
+    farm6,
+    escortservice,
+    securityconsult,
+    securotyarc,
+    certificate,
+    securitypic1,
+    securitypic2 
 }

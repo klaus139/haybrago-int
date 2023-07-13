@@ -54,14 +54,14 @@ const Blog = () => {
                         alt="Calendar Icon"
                       />
                       <div>
-                        <p className="blog-date">24</p>
-                        <p className="mg-0">January</p>
+                        <p className="blog-date">14</p>
+                        <p className="mg-0">July</p>
                       </div>
                     </div>
                     <div className="blog-line"></div>
                     <div className="blog-content-wrap">
                       <a
-                        href="/post/inland-freight-a-worthy-solution-for-your-business"
+                        href='/post/New_PV40_Motion_Sensor_Camera'
                         className="blog-title"
                       >
                         New PV40 Motion Sensor Camera
@@ -126,7 +126,7 @@ const Blog = () => {
                     <div className="blog-line"></div>
                     <div className="blog-content-wrap">
                       <a
-                        href="/post/how-technology-can-help-redraw-the-supply-chain-map"
+                        href="/post/training_of_new_Security_Operatives_for_Olean_Group"
                         className="blog-title"
                         >Training of new Security Operatives for Olean Group
                         </a>
@@ -150,7 +150,7 @@ const Blog = () => {
             </div>
           </div>
         </div>
-        <div className="mg-top-40">
+        {/* <div className="mg-top-40">
           <div className="align-center">
             <a
               data-w-id="9f632a42-95a0-a6e5-1250-90ed404180e7"
@@ -163,7 +163,7 @@ const Blog = () => {
               ></div>
               </a>
           </div>
-        </div>
+        </div> */}
       </div>
       <div className="image-section wf-section"></div>
     </div>

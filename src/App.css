@@ -799,7 +799,9 @@ html {
   .w-col-11 {
     width: 91.6667%;
   }
-  
+  /* .securityp{
+    text-justify: distribute;
+  } */
   .w-col-12 {
     width: 100%;
   }
@@ -2667,6 +2669,21 @@ html {
     position: relative;
     overflow: hidden;
   }
+  .dark-overlay-button-about {
+    z-index: 1;
+    min-width: 100px;
+    color: #fff;
+    text-align: center;
+    background-color: #091242;
+    padding: 20px 35px 17px;
+    font-size: 16px;
+    font-weight: 300;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+  }
+  
+
   
   .icon-section {
     padding-top: 90px;
@@ -2701,7 +2718,7 @@ html {
   }
   
   .image-section {
-    background-image: url("https://assets.website-files.com/63a43a1633ad3e2a969a6958/63c8d890c4030a62e9127a34_footer-image.jpg");
+    background-image: url("https://foodprint.org/wp-content/uploads/2018/10/GettyImages-907966126_optimized.jpg");
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3911,6 +3928,16 @@ html {
     padding-bottom: 130px;
     position: relative;
   }
+  .service-security-banner{
+    background-image: linear-gradient(to right, #032d5f 18%, rgba(3, 45, 95, .56) 40%, rgba(3, 45, 95, .2)), url("https://sajagpraharisecurity.com/images/banner1.jpg");
+    background-position: 0 0, 0%;
+    background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+    margin-top: -81px;
+    padding-top: 200px;
+    padding-bottom: 130px;
+    position: relative;
+  }
   
   .service {
     padding-top: 100px;
@@ -4251,7 +4278,17 @@ html {
   }
   
   .blog-single-banner {
-    background-image: linear-gradient(to right, #032d5f 17%, rgba(3, 45, 95, .3) 50%, rgba(3, 45, 95, .3)), url("https://assets.website-files.com/63a43a1633ad3e2a969a6958/63b6a88dd64e14e26119808d_blog-single-banner.jpg");
+    background-image: linear-gradient(to right, #032d5f 17%, rgba(3, 45, 95, .3) 50%, rgba(3, 45, 95, .3)), url("https://mfs.ezvizlife.com/70c6637b825b2533292ded60869f0131.jpg?ver=0627972480");
+    background-position: 0 0, 100% 100%;
+    background-repeat: repeat, no-repeat;
+    background-size: auto, cover;
+    margin-top: -81px;
+    padding-top: 220px;
+    padding-bottom: 150px;
+    position: relative;
+  }
+  .blog2-single-banner {
+    background-image: linear-gradient(to right, #032d5f 17%, rgba(3, 45, 95, .3) 50%, rgba(3, 45, 95, .3)), url("https://images.squarespace-cdn.com/content/v1/5c45f474e2ccd1edd9b777d8/1548256976094-6VMLBQW9GYIS0ANRWGJV/Training.jpg?format=1500w");
     background-position: 0 0, 100% 100%;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;

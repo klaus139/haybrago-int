@@ -245,8 +245,8 @@ const OurTeam = () => {
                 alt="Team"
               />
               <div className="team-content-wrap">
-                <h3 className="author-name text-white">Kane William</h3>
-                <p className="team-member-designation">Country Head</p>
+                <h3 className="author-name text-white">Mamman Nafiu</h3>
+                <p className="team-member-designation">Asst. General Manager HayBravo Security Ltd.</p>
               </div>
               {/* <div className="social-media-wrap">
                 <a

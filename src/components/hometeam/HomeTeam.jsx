@@ -1,5 +1,6 @@
 import React from 'react';
 import { images } from '../../constants';
+import { Link } from 'react-router-dom';
 
 const HomeTeam= () => {
   return (
@@ -38,7 +39,7 @@ const HomeTeam= () => {
                     className="social-icon"
                   />
                 </a>
-                <a href="http://www.facebook.com" className="team-social-link w-inline-block">
+                <a href="https://web.facebook.com/profile.php?id=100007387129413" className="team-social-link w-inline-block">
                   <img
                     src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc76edb063abc2787ee1d_facebook-icon.svg"
                     loading="lazy"
@@ -141,6 +142,18 @@ const HomeTeam= () => {
               </div>
             </div>
           </div>
+          <div className="mg-top-60">
+          <div className="align-center">
+            <a
+              data-w-id="25461b7a-b71a-7f01-d198-7700f6ca7c49"
+              href="/our-team"
+              className="dark-overlay-button w-inline-block"
+            >
+              <div>More Team Members</div>
+              <div className="dark-button-hover"></div>
+            </a>
+          </div>
+        </div>
         </div>
       </div>
     </div>

@@ -1,4 +1,5 @@
 import React from 'react';
+import { images } from '../../constants';
 
 const Work = () => {
   return (
@@ -6,7 +7,7 @@ const Work = () => {
       <div className="work-bg yellow-gradient"></div>
       <div className="container-large w-container">
         <div className="align-center">
-          <h2 className="section-title">Delivery Services Across The World</h2>
+          <h2 className="section-title">Delivering Quality Service Across The World</h2>
         </div>
         <div className="mg-top-30">
           <div className="w-layout-grid work-grid">
@@ -34,12 +35,12 @@ const Work = () => {
             >
               <div className="work-image-shade">
                 <div className="work-text-wrap">
-                  <h3 className="work-card-title">VIP Escort Service</h3>
-                  <p className="work-text">Security Services</p>
+                  <h3 className="work-card-title">Mining and Industry</h3>
+                  <p className="work-text">Solid mineral Mining</p>
                 </div>
               </div>
               <img
-                src="https://images.squarespace-cdn.com/content/v1/5bf407dd372b9666bb3fffa3/1677067066553-H08YEV5GFCR6W0XVMH2G/1.%2BArmed%2BEscort%2BServices.jpg"
+                src="https://www.ariseiip.com/wp-content/uploads/2022/07/Gabon-mining-industry-1024x555.jpg"
                 loading="lazy"
                 width="594"
                 height='280'
@@ -75,7 +76,7 @@ const Work = () => {
                 </div>
               </div>
               <img
-                src="https://www.momondo.com/himg/e1/4b/b6/expediav2-2232279-2400896394-706194.jpg"
+                src={images.haybravo1}
                 loading="lazy"
                 width="519"
                 height='280'

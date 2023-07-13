@@ -70,15 +70,25 @@ const Footer = () => {
               <a href="/about-us" className="footer-link">
                 About Us
               </a>
+              <a href="/security" className="footer-link">
+                Security
+              </a>
+              <a href="/hotels" className="footer-link">
+                Hotels
+              </a>
+              <a href="/farms" className="footer-link">
+                Farms
+              </a>
+              <a href="/mines" className="footer-link">
+                Mines
+              </a>
               <a href="/our-team" className="footer-link">
                 Our Team
               </a>
               <a href="/our-project" className="footer-link">
                 Our Project
               </a>
-              <a href="/pricing" className="footer-link">
-                Our Services
-              </a>
+              
               <a href="/contact-us" className="footer-link">
                 Contact
               </a>
@@ -142,7 +152,7 @@ const Footer = () => {
                     className="primary-button w-button"
                   />
                   <div className="footer-social-media-wrap">
-                    <a href="http://www.linkedin.com" className="social-media-link w-inline-block">
+                    <a href="https://www.linkedin.com/in/haybravo-international-limited-75b1a7283" className="social-media-link w-inline-block">
                       <img
                         src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc57ea43e8f10547bacad_linkedIn-icon.svg"
                         loading="lazy"
@@ -150,7 +160,7 @@ const Footer = () => {
                         className="social-icon"
                       />
                     </a>
-                    <a href="http://www.twitter.com" className="social-media-link w-inline-block">
+                    <a href="https://twitter.com/haybravo_ltd" className="social-media-link w-inline-block">
                       <img
                         src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc54529c06503197e6691_twiter-icon.svg"
                         loading="lazy"
@@ -158,7 +168,7 @@ const Footer = () => {
                         className="social-icon"
                       />
                     </a>
-                    <a href="http://www.facebook.com" className="social-media-link w-inline-block">
+                    <a href="https://www.facebook.com/people/Hay-Bravo-international-Security-Consulting-Company-LTD/100083540643909/?paipv=0&eav=AfZk-s4y746llh98g-ucTA49Evlvof1CLxJFw7wUuMuxVa74Hh-VyyK0A-8yJhxdWHw&_rdr" className="social-media-link w-inline-block">
                       <img
                         src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc46c51c3425c77fb5dc3_fb-icon.svg"
                         loading="lazy"
