@@ -2,6 +2,7 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import './App.css';
 import { ToastContainer } from 'react-toastify';
+import { FloatingWhatsApp } from 'react-floating-whatsapp'
 import 'react-toastify/dist/ReactToastify.css';
 import Layout from './components/Layout/Layout';
 import Home from './pages/Home';
@@ -20,6 +21,16 @@ function App() {
   return (
    <>
    <ToastContainer />
+   <FloatingWhatsApp
+        phoneNumber="+2348033586496"
+        accountName="HayBravo International"
+        allowEsc
+        allowClickAway
+        notification
+        notificationSound
+        chatMessage='Welcome to HayBavo, How may we help you?'
+        avatar='https://media.istockphoto.com/id/1276619054/vector/admin-support-service-icon.jpg?s=612x612&w=0&k=20&c=CpGB5FuhTTSJGggBb7VsTNxTZM-fmp7s8E6XMaIJQ84='
+      />
    <BrowserRouter>
    <Routes>
    <Route path="/" element={<Layout />}>
