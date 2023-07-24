@@ -67,7 +67,7 @@ const Nav = () => {
       <div class="navigation-button-wrap">
             <div class="nav-social-media-wrap">
               <a
-                href="https://instagram.com/haybravointernational?igshid=NTc4MTIwNjQ2YQ=="
+                href="https://instagram.com/haybravosecurity?igshid=NGExMmI2YTkyZg=="
                 class="social-media-link w-inline-block"
                 ><img
                   src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc36ddb063a39e687b631_Insta-icon.svg"
@@ -83,7 +83,7 @@ const Nav = () => {
                   alt="Facebook Icon"
                   class="social-icon" /></a
               ><a
-                href="https://twitter.com/haybravo_ltd"
+                href="https://twitter.com/BravoHay13872?s=08"
                 class="social-media-link w-inline-block"
                 ><img
                   src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc54529c06503197e6691_twiter-icon.svg"

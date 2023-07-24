@@ -9,7 +9,7 @@ const Security = () => {
         <div className="banner-title-wrap">
           <div className="subtitle-wrap-dark">
             <div className="subtitle-border"></div>
-            <p className="subtitle-dark">Hotels</p>
+            <p className="subtitle-dark">Security</p>
           </div>
           <h1 className="page-title">Hay Bravo Security Services</h1>
         </div>
@@ -36,7 +36,7 @@ const Security = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/security" className="service-title"
                   >CCTV installation / Surveillance:</a
                 >
               </div>
@@ -53,7 +53,7 @@ const Security = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/security" className="service-title"
                   >Hay Bravo Security Escort Service:</a
                 >
               </div>
@@ -72,7 +72,7 @@ const Security = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/security" className="service-title"
                   >Security Consulting:</a
                 >
               </div>
@@ -91,7 +91,7 @@ const Security = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/security" className="service-title"
                   >Security Architecture Design:</a
                 >
               </div>
@@ -110,7 +110,7 @@ const Security = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/security" className="service-title"
                   >Security Training and Certification:</a
                 >
               </div>
@@ -129,7 +129,7 @@ const Security = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/security" className="service-title"
                   >Deployment of Physical Trained Guards:</a
                 >
               </div>
@@ -170,6 +170,7 @@ const Security = () => {
         </div>
       </div>
     </div>
+    
     <div className="project-section wf-section">
       <div className="container w-container">
         <div className="project-list-wrapper w-dyn-list">
@@ -177,7 +178,7 @@ const Security = () => {
             <div role="listitem" className="project-item w-dyn-item w-col w-col-4">
               <a
                 data-w-id="14fba6d4-6cf2-8f6d-19cc-b6975ea28168"
-                href="/project/air-cargo-transportation"
+                href="/security"
                 className="project-card w-inline-block"
                 ><img
                   alt="Project "
@@ -205,7 +206,7 @@ const Security = () => {
             <div role="listitem" className="project-item w-dyn-item w-col w-col-4">
               <a
                 data-w-id="14fba6d4-6cf2-8f6d-19cc-b6975ea28168"
-                href="/project/refreshingly-different"
+                href="/security"
                 className="project-card w-inline-block"
                 ><img
                   alt="Project"
@@ -233,7 +234,7 @@ const Security = () => {
             <div role="listitem" className="project-item w-dyn-item w-col w-col-4">
               <a
                 data-w-id="14fba6d4-6cf2-8f6d-19cc-b6975ea28168"
-                href="/project/freight-management"
+                href="/security"
                 className="project-card w-inline-block"
                 ><img
                   alt="Project"
@@ -261,7 +262,7 @@ const Security = () => {
             <div role="listitem" className="project-item w-dyn-item w-col w-col-4">
               <a
                 data-w-id="14fba6d4-6cf2-8f6d-19cc-b6975ea28168"
-                href="/project/inland-transportation"
+                href="/security"
                 className="project-card w-inline-block"
                 ><img
                   alt="Project"
@@ -289,7 +290,7 @@ const Security = () => {
             <div role="listitem" className="project-item w-dyn-item w-col w-col-4">
               <a
                 data-w-id="14fba6d4-6cf2-8f6d-19cc-b6975ea28168"
-                href="/project/pick-and-pack-services"
+                href="/security"
                 className="project-card w-inline-block"
                 ><img
                   alt="Projecte"
@@ -317,7 +318,7 @@ const Security = () => {
             <div role="listitem" className="project-item w-dyn-item w-col w-col-4">
               <a
                 data-w-id="14fba6d4-6cf2-8f6d-19cc-b6975ea28168"
-                href="/project/automotive-machinery"
+                href="/security"
                 className="project-card w-inline-block"
                 ><img
                   alt="Project"
@@ -346,6 +347,8 @@ const Security = () => {
         </div>
       </div>
     </div>
+    
+    
     <div className="counter-section wf-section">
       <div className="w-layout-grid counter-grid">
         <div

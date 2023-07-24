@@ -39,7 +39,7 @@ const Footer = () => {
                   </div>
                   <div>
                     <p className="header-link-text">Email</p>
-                    <a href="mailto:contact@transitflow.com" className="header-link-text hover-yellow">
+                    <a href="mailto:haybravointernational@gmail.com" className="header-link-text hover-yellow">
                       haybravointernational@gmail.com
                     </a>
                   </div>
@@ -54,7 +54,7 @@ const Footer = () => {
                   </div>
                   <div>
                     <p className="header-link-text">Call Us</p>
-                    <a href="tel:(00)123456789" className="header-link-text hover-yellow">
+                    <a href="tel:+2348033586496" className="header-link-text hover-yellow">
                       (+234)803 358 6496
                     </a>
                   </div>
@@ -194,11 +194,11 @@ const Footer = () => {
           <div data-w-id="1a03c1d7-10ce-f356-ab94-97121185edc5" className="copyright-wrap">
             <p className="copyright-text">
               Copyright © Hay Bravo International | Designed by{' '}
-              <a href="https://www.victorflow.com/" target="_blank" className="copyright-link" rel="noreferrer">
+              <a href="https:nicklaus-portfolio.netlify.app/" target="_blank" className="copyright-link" rel="noreferrer">
                 Klaus{' '}
               </a>
               - Powered by{' '}
-              <a href="https://webflow.com/" target="_blank" className="copyright-link" rel="noreferrer">
+              <a href="https:nickoklaus5@gmail.com" target="_blank" className="copyright-link" rel="noreferrer">
                 KlausTech
               </a>
               .

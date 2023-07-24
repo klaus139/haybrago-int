@@ -34,7 +34,7 @@ const Hotels = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/hotels" className="service-title"
                   >Accommodation</a
                 >
               </div>
@@ -53,7 +53,7 @@ const Hotels = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/hotels" className="service-title"
                   >Hospitality Services:</a
                 >
               </div>
@@ -72,7 +72,7 @@ const Hotels = () => {
                 />
               </div>
               <div className="mg-top-20">
-                <a href="/service-single" className="service-title"
+                <a href="/hotels" className="service-title"
                   >Dining and Catering</a
                 >
               </div>
@@ -151,6 +151,36 @@ const Hotels = () => {
                 href="/project"
                 className="dark-overlay-button w-inline-block"
                 ><div>More Work</div>
+                <div class="navigation-button-wrap">
+            <div class="nav-social-media-wrap">
+              <a
+                href="https://instagram.com/haybravohotel?igshid=ZDc4ODBmNjlmNQ=="
+                class="social-media-link w-inline-block"
+                ><img
+                  src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc36ddb063a39e687b631_Insta-icon.svg"
+                  loading="lazy"
+                  alt="Instagram Icon"
+                  class="social-icon" /></a
+              ><a
+                href="https://www.facebook.com/people/Hay-Bravo-international-Security-Consulting-Company-LTD/100083540643909/?paipv=0&eav=AfZk-s4y746llh98g-ucTA49Evlvof1CLxJFw7wUuMuxVa74Hh-VyyK0A-8yJhxdWHw&_rdr"
+                class="social-media-link w-inline-block"
+                ><img
+                  src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc46c51c3425c77fb5dc3_fb-icon.svg"
+                  loading="lazy"
+                  alt="Facebook Icon"
+                  class="social-icon" /></a
+              ><a
+                href="https://twitter.com/BravoHay13872?s=08"
+                class="social-media-link w-inline-block"
+                ><img
+                  src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc54529c06503197e6691_twiter-icon.svg"
+                  loading="lazy"
+                  alt="Twitter Icon"
+                  class="social-icon" /></a
+              >
+            </div>
+           
+          </div>
                 <div
                 //   style="
                 //     -webkit-transform: translate3d(0px, 0px, 0) scale3d(1, 1, 1)

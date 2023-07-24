@@ -243,6 +243,63 @@ In summary, farming is an essential and multifaceted endeavor that encompasses t
                   /></div
               ></a>
             </div>
+            <div className="mg-top-40">
+            <div
+              data-w-id="fd8a62a1-a09a-a7b7-6061-8c84547b0435"
+              //style="opacity: 0"
+              className="align-center"
+            >
+              <a
+                data-w-id="fd8a62a1-a09a-a7b7-6061-8c84547b0436"
+                href="/project"
+                className="dark-overlay-button w-inline-block"
+                ><div>More From Us</div>
+                <div class="navigation-button-wrap">
+            <div class="nav-social-media-wrap">
+              <a
+                href="https://instagram.com/haybravofarm?igshid=MzNlNGNkZWQ4Mg=="
+                class="social-media-link w-inline-block"
+                ><img
+                  src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc36ddb063a39e687b631_Insta-icon.svg"
+                  loading="lazy"
+                  alt="Instagram Icon"
+                  class="social-icon" /></a
+              ><a
+                href="https://www.facebook.com/people/Hay-Bravo-international-Security-Consulting-Company-LTD/100083540643909/?paipv=0&eav=AfZk-s4y746llh98g-ucTA49Evlvof1CLxJFw7wUuMuxVa74Hh-VyyK0A-8yJhxdWHw&_rdr"
+                class="social-media-link w-inline-block"
+                ><img
+                  src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc46c51c3425c77fb5dc3_fb-icon.svg"
+                  loading="lazy"
+                  alt="Facebook Icon"
+                  class="social-icon" /></a
+              ><a
+                href="https://twitter.com/BravoHay13872?s=08"
+                class="social-media-link w-inline-block"
+                ><img
+                  src="https://assets.website-files.com/63a43a1633ad3e2a969a6958/63cfc54529c06503197e6691_twiter-icon.svg"
+                  loading="lazy"
+                  alt="Twitter Icon"
+                  class="social-icon" /></a
+              >
+            </div>
+           
+          </div>
+                <div
+                //   style="
+                //     -webkit-transform: translate3d(0px, 0px, 0) scale3d(1, 1, 1)
+                //       rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+                //     -moz-transform: translate3d(0px, 0px, 0) scale3d(1, 1, 1)
+                //       rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+                //     -ms-transform: translate3d(0px, 0px, 0) scale3d(1, 1, 1)
+                //       rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+                //     transform: translate3d(0px, 0px, 0) scale3d(1, 1, 1)
+                //       rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+                //   "
+                  className="dark-button-hover"
+                ></div
+              ></a>
+            </div>
+          </div>
           </div>
         </div>
       </div>
