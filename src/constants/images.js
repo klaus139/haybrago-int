@@ -66,6 +66,7 @@ import securotyarc from '../assets/images/icons8-cyber-security-100.png'
 import certificate from '../assets/images/icons8-training-100.png'
 import securitypic1 from '../assets/images/WhatsApp Image 2023-07-11 at 7.01.41 PM.jpeg';
 import securitypic2 from '../assets/images/WhatsApp Image 2023-07-11 at 7.01.41 PM (1).jpeg'
+import newlogo from '../assets/images/WhatsApp Image 2023-07-25 at 3.18.54 PM.jpeg'
 
 
 
@@ -77,6 +78,7 @@ import securitypic2 from '../assets/images/WhatsApp Image 2023-07-11 at 7.01.41 
 
 export default{
     logo,
+    newlogo,
     highrise,
     securitylogo,
     farmlogo,

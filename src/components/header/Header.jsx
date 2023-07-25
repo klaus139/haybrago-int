@@ -14,8 +14,8 @@ const Header = () => {
           <div className="header-link-wrap">
             <a href="/" aria-current="page" className="logo-wrap w-inline-block w--current">
               <img
-                src={images.logo}
-                style={{ width: '300px', height: '120px', marginLeft: '-20px' }}
+                src={images.newlogo}
+                style={{ width: '200px', height: '100px', marginLeft: '-20px' }}
                 loading="lazy"
                 alt="Logistics Logo"
               />

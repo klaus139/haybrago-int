@@ -18,7 +18,8 @@ const Footer = () => {
               className="footer-logo-wrap w-inline-block w--current"
             >
               <img
-                src={images.logo}
+                src={images.newlogo}
+                style={{ width: '200px', height: '100px', marginLeft: '30px' }}
                 loading="lazy"
                 alt="Logistics Logo"
               />
