@@ -1017,7 +1017,7 @@ Security Nigeria limited Kaduna and zaria.</p>
                   loading="lazy"
                   alt="Icon"
                 />
-                <h4 className="service-work-title">Estimate Shipping</h4>
+                <h4 className="service-work-title">Estimate Goals</h4>
                 <p>
                   To provide innovative solutions delivering quality, excellence
                   and speed.

@@ -209,7 +209,10 @@ html {
   .w-icon-nav-menu:before {
     content: ">";
   }
-  
+  .sociolo{
+    display:flex;
+    margin-left: 30px;
+  }
   .w-icon-arrow-down:before, .w-icon-dropdown-toggle:before {
     content: ">";
   }
